@@ -1,6 +1,6 @@
 suma=0
 for i in range(1,4):
-    n=int(input("digite uno de los tres numeros"))
+    n=int(input("digite uno de los tres numeros: "))
     suma=suma+n
 
 
